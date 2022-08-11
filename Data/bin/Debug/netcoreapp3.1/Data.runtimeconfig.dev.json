@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fourt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fourt\\.nuget\\packages"
+    ]
+  }
+}
